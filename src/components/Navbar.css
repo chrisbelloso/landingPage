@@ -1,0 +1,17 @@
+.NavTitle a {
+  color: rgb(255, 238, 0);
+  text-decoration: none;
+  font-family: fantasy;
+  font-size: 22px;
+}
+
+#offcanvasNavbarLabel {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.list a {
+  color: rgb(0, 132, 255);
+  text-decoration: none;
+  font-size: 23px;
+}

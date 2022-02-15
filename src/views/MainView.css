@@ -1,0 +1,24 @@
+.exploreContainer {
+  margin-top: 80px;
+  border: solid 1px lightgrey;
+  box-shadow: 0px 10px 10px lightgray;
+  padding: 20px;
+  border-radius: 20px 45px 20px 45px;
+  max-width: 600px;
+}
+
+.allProjects {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.toLinkContainer {
+  border-radius: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 2px;
+  padding-bottom: 3px;
+  text-decoration: none;
+  background-color: rgb(0, 102, 255);
+  color: white;
+}
