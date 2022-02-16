@@ -6,7 +6,7 @@ import './Navbar.css';
 const NavBar = () => {
     return (
         <div>
-          <Navbar bg="primary" expand={false}>
+          <Navbar fixed='top' style={{backgroundColor: "rgb(37, 37, 37)"}} expand={false}>
               <Container fluid>
                 <Navbar.Brand className='NavTitle'>
                   <Link to="/">

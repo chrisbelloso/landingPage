@@ -1,8 +1,8 @@
 .NavTitle a {
-  color: rgb(255, 238, 0);
+  color: rgb(132, 0, 255);
   text-decoration: none;
   font-family: fantasy;
-  font-size: 22px;
+  font-size: 30px;
 }
 
 #offcanvasNavbarLabel {
@@ -10,8 +10,26 @@
   font-size: 25px;
 }
 
+.offcanvas-header {
+  background-color: rgb(37, 37, 37);
+  color: white;
+}
+
 .list a {
-  color: rgb(0, 132, 255);
+  color: rgb(132, 0, 255);
   text-decoration: none;
   font-size: 23px;
+  font-weight: bold;
+}
+
+.navbar-light .navbar-toggler-icon {
+  background-image: url(https://cdn.pixabay.com/photo/2018/04/23/15/35/settings-3344607_960_720.png) !important;
+}
+
+.navbar-light .navbar-toggler {
+  border: none;
+}
+
+.btn-close {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Grey_close_x.svg/1024px-Grey_close_x.svg.png) !important;
 }
