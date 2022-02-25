@@ -1,0 +1,19 @@
+.aboutHeader {
+  background-color: rgb(37, 37, 37);
+  height: 250px;
+  display: flex;
+  justify-content: center;
+}
+
+.aboutTitle {
+  color: white;
+  margin-top: 130px;
+  font-weight: bold;
+}
+
+.about {
+  margin: 70px;
+  background-color: rgb(213, 218, 218);
+  padding: 60px;
+  border-radius: 30px;
+}

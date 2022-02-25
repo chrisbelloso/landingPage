@@ -11,6 +11,9 @@ const MainView = () => {
             </div>
             </header>
 
+        <div>
+            <h1 className='subHeaderProjects'>PROJECTS</h1>
+        </div>
 
         <div className='allProjects'>
             <div className='exploreContainer'>
@@ -29,7 +32,7 @@ const MainView = () => {
             <div className='exploreContainer'>
                 <h2 style={{fontWeight: "bold"}}>Address Book:</h2>
                 <p>- An address book containing 50+ user data from API ending point.</p>
-                <a className='toLinkContainer' href="https://jolly-shannon-f518c5.netlify.app/">GO</a>
+                <a className='toLinkContainer' href="https://sleepy-volhard-62e8f8.netlify.app/">GO</a>
             </div>
         </div>
         </div>
