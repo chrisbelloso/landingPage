@@ -25,8 +25,8 @@ const NavBar = () => {
                       <Offcanvas.Body>
                         <Nav className='list'>
                           <Link to="/">Home</Link>
-                          <Link to="/about">About</Link>
-                          <Link to="/contact">Contact</Link>
+                          <Link to="/links">Important Links</Link>
+                          <Link to="/contact">Contact Me</Link>
                         </Nav>
                       </Offcanvas.Body>
                     </Navbar.Offcanvas>

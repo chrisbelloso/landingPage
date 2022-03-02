@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 import Navbar from './components/Navbar';
-import AboutPage from './views/AboutPage';
+import ImportantLinks from './views/ImportantLinks';
 import MainView from './views/MainView';
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
     <Navbar/>
     <Routes>
       <Route path="/" element={ <MainView /> } />
-      <Route path="/about" element={ <AboutPage /> } />
+      <Route path="/links" element={ <ImportantLinks /> } />
     </Routes>
     </BrowserRouter>
   );
