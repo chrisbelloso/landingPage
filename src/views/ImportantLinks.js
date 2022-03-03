@@ -10,22 +10,27 @@ const ImportantLinks = () => {
             
             <div className='links'>
                 <div className='E-Mail'>
-                    <p className='linkTitle'>E-Mail</p>
-                    <p>
+                    <h4 className='linkTitle'>E-Mail</h4>
+                    <p className='linkText'>
                         christianbelloso2002@gmail.com
                     </p>
                 </div>
                 <div className='Phone'>
-                    <ul className='linkTitle'>Phone</ul>
-                    <a href="tel: 7866038365">(786) 603-8365</a>
+                    <h4 className='linkTitle'>Phone</h4>
+                    <a className='linkText' href="tel: 7866038365">(786) 603-8365</a>
                 </div>
                 <div className='GitHub'>
-                    <ul className='linkTitle'>GitHub</ul>
-                    <a href="https://github.com/chrisbelloso">GITHUB</a>
+                    <h4 className='linkTitle'>GitHub</h4>
+                    <a className='linkText' href="https://github.com/chrisbelloso">github.com/chrisbelloso</a>
+                </div>
+                <div className='Resume'>
+                    <h4 className='linkTitle'>Resume</h4>
+                    <a className='linkText' href="https://drive.google.com/file/d/1X9YPoatDGO6cnO_IhHje3enDFS0lSl0A/view?usp=sharing">
+                        Christian Belloso Resume.PDF</a>
                 </div>
                 <div className='Website'>
-                    <ul className='linkTitle'>Website</ul>
-                    <a href="https://github.com/chrisbelloso">WEBSITE</a>
+                    <h4 className='linkTitle'>Website</h4>
+                    <a className='linkText' href="https://github.com/chrisbelloso">CB Lading Page</a>
                 </div>
             </div>
         </>
