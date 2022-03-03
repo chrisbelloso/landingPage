@@ -30,7 +30,7 @@ const ImportantLinks = () => {
                 </div>
                 <div className='Website'>
                     <h4 className='linkTitle'>Website</h4>
-                    <a className='linkText' href="https://github.com/chrisbelloso">CB Lading Page</a>
+                    <a className='linkText' href="https://awesome-davinci-fc5252.netlify.app/">CB Lading Page</a>
                 </div>
             </div>
         </>

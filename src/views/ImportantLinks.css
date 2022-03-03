@@ -17,11 +17,8 @@
 .links {
   margin-top: 30px;
   display: grid;
-  flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: center;
   margin-bottom: 30px;
-  margin-left: 20px;
-  margin-right: 70px;
 }
 
 .linkTitle {
@@ -30,8 +27,6 @@
   justify-content: center;
   background-color: rgb(132, 0, 255);
   border-radius: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
 }
 
 .linkText {
