@@ -11,9 +11,9 @@ const ImportantLinks = () => {
             <div className='links'>
                 <div className='E-Mail'>
                     <h4 className='linkTitle'>E-Mail</h4>
-                    <p className='linkText'>
+                    <a className='linkText' href="mailto:christianbelloso2002@gmail.com">
                         christianbelloso2002@gmail.com
-                    </p>
+                    </a>
                 </div>
                 <div className='Phone'>
                     <h4 className='linkTitle'>Phone</h4>
