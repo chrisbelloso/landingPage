@@ -33,6 +33,14 @@ const MainView = () => {
                     <p>- An address book containing 50+ user data from API ending point.</p>
                     <a className='toLinkContainer' href="https://sleepy-volhard-62e8f8.netlify.app/">GO</a>
                 </div>
+                <div className='exploreContainer'>
+                    <h2 style={{fontWeight: "bold"}}>Road Runners 2409 Landing Page</h2>
+                    <p>
+                        - Road Runners is a Miami based company that offers transportation services. 
+                        This landing page is a project dedicated to give it's clients access to bookings and payments through Venmo.
+                        </p>
+                    <a className='toLinkContainer' href="https://elaborate-parfait-3cc6d1.netlify.app/">GO</a>
+                </div>
             </div>
 
             <div>
