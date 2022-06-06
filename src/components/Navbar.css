@@ -1,5 +1,5 @@
 .NavTitle a {
-  color: rgb(132, 0, 255);
+  color: rgb(63, 178, 255);
   text-decoration: none;
   font-size: 30px;
   font-weight: bold;
@@ -16,14 +16,14 @@
 }
 
 .list a {
-  color: rgb(132, 0, 255);
+  color: rgb(63, 178, 255);
   text-decoration: none;
   font-size: 23px;
   font-weight: bold;
 }
 
 .navbar-light .navbar-toggler-icon {
-  background-image: url(https://cdn.pixabay.com/photo/2018/04/23/15/35/settings-3344607_960_720.png) !important;
+  background-image: url(https://cdn1.iconfinder.com/data/icons/basic-ui-elements-coloricon/21/29-512.png) !important;
 }
 
 .navbar-light .navbar-toggler {

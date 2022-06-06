@@ -14,26 +14,47 @@
   color: white;
 }
 
-.links {
-  margin-top: 30px;
-  display: grid;
-  justify-content: center;
-  margin-bottom: 30px;
+.linksContainer {
+  display: flex;
+  margin: 50px;
+  margin-top: 90px;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
 }
 
-.linkTitle {
-  color: white;
+.iconsContainer {
   display: flex;
-  justify-content: center;
-  background-color: rgb(132, 0, 255);
-  border-radius: 10px;
+  align-items: center;
+  flex-direction: column;
 }
 
-.linkText {
-  display: flex;
-  justify-content: center;
-  margin-top: 30px;
-  margin-bottom: 30px;
-  font-size: 20px;
+.allLinks {
   text-decoration: none;
+  background-color: rgb(63, 178, 255);
+  padding: 8px;
+  border-radius: 10px;
+  font-size: 18px;
+  font-family: 'Gill Sans', 'Gill Sans MT',
+  Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bolder;
+  color: white;
+  text-decoration: none;
+}
+
+.emailIcon {
+  height: 90px;
+  width: 90px;
+  margin-bottom: 10px;
+}
+
+.cvIcon {
+  height: 90px;
+  width: 100px;
+  margin-bottom: 10px;
+}
+
+.linkedinIcon {
+  height: 90px;
+  width: 110px;
+  margin-bottom: 10px;
 }

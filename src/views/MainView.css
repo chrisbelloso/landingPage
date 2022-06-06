@@ -10,7 +10,7 @@
   justify-content: center;
   margin-top: 60px;
   font-weight: bold;
-  color: rgb(132, 0, 255);
+  color: rgb(63, 178, 255);
 }
 
 /* ----- PROJECTS ----- */
@@ -42,7 +42,7 @@
   padding-top: 2px;
   padding-bottom: 3px;
   text-decoration: none;
-  background-color: rgb(132, 0, 255);
+  background-color: rgb(63, 178, 255);
   color: white;
 }
 
@@ -52,7 +52,7 @@
   display: flex;
   justify-content: center;
   margin-top: 60px;
-  color: rgb(132, 0, 255);
+  color: rgb(63, 178, 255);
   font-size: 40px;
 }
 
